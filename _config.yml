@@ -30,9 +30,10 @@ twitter_username: bradezard
 github_username:  bradezard131
 
 # Build settings
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
