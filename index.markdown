@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: home
 ---
 
 I'm a PhD Candidate at [Curtin University](https://curtin.edu.au) under the supervision of Dr. Senjian An and Prof. Ling Li.
