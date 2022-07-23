@@ -22,7 +22,7 @@ title: Brad Ezard
 email: brad@bradezard.me
 description: >- # this means to ignore newlines until "baseurl:"
   Computer Vision Researcher, Machine Learning Engineer, Musician
-baseurl: "/site" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bradezard131.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bradezard
 github_username:  bradezard131
